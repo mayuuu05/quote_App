@@ -22,8 +22,9 @@
       <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/07bdc3f3-a2bc-420f-bda5-7cfc80ba508d"  height=35% width=22%  />
        <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/5e8e8104-0db1-481d-97c1-33d9ee303c18"  height=35% width=22%  />
        <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/b869a596-a71f-4704-8ada-f85c6e7260ef"  height=35% width=22%  />
+       <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/45a3317d-485d-4e4e-97fb-1d8b22a7dc09"  height=35% width=22%  />
        <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/57b824a0-b65d-4460-b0a3-f04680a244b5"  height=35% width=22%  />
- 
+
 
   <video height="450" src="https://github.com/mayuuu05/quote_App/assets/149376263/fbab15e0-598f-419b-954f-39877ce1e1ca" />
 
