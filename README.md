@@ -16,14 +16,14 @@
 
  <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/882555cf-074e-4d9e-947a-b1d439d938a6"  height=35% width=22%  />
   <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/42afb29b-f6af-4782-9d5e-56003ee6f0ca"  height=35% width=22%  />
-   <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/f90a1696-3e40-487a-b64c-ec8011f50c64"  height=35% width=22%  />
+    <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/25035df4-2c2d-42fb-82c2-aeb0f2958bbf"  height=35% width=22%  />
     <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/0238624c-9471-49a4-890f-d5a850e2e93b"  height=35% width=22%  />
      <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/60e44072-ce8f-4447-acdb-e0a5cf43e5d0"  height=35% width=22%  />
       <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/07bdc3f3-a2bc-420f-bda5-7cfc80ba508d"  height=35% width=22%  />
        <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/5e8e8104-0db1-481d-97c1-33d9ee303c18"  height=35% width=22%  />
        <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/b869a596-a71f-4704-8ada-f85c6e7260ef"  height=35% width=22%  />
        <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/57b824a0-b65d-4460-b0a3-f04680a244b5"  height=35% width=22%  />
-  <img src = "https://github.com/mayuuu05/quote_App/assets/149376263/25035df4-2c2d-42fb-82c2-aeb0f2958bbf"  height=35% width=22%  />
+ 
 
   <video height="450" src="https://github.com/mayuuu05/quote_App/assets/149376263/fbab15e0-598f-419b-954f-39877ce1e1ca" />
 
