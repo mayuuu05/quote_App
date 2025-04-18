@@ -1,4 +1,4 @@
-# quotes_app
+# Quotes_app
 
 <div align = "center">
  
